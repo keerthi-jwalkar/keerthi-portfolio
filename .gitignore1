@@ -1,0 +1,62 @@
+S O N U Y A D A V
+📞 9677502414 sonuyadav127001@gmail.com Noida, India Github Linkedin.com
+P R O F E S S I O N A L S U M M A R Y
+Results-driven Cloud Engineer with 4+ years of hands-on experience at HCLTech, specializing in cloud infrastructure
+automation, IaC-driven deployments, and enterprise-scale patch management. Engineered Terraform-based AWS
+solutions that accelerated deployment efficiency by 70% and reduced help desk tickets by 40% through intelligent
+automation across 4,000+ endpoints. Proven track record managing 2,000+ servers across multi-cloud and hybrid
+environments with 95% uptime SLA adherence, backed by dual AWS certifications and ITIL best practices.
+T E C H N I C A L S K I L L S
+Cloud Platforms: AWS (EC2, S3, VPC, IAM, EKS) Monitoring & Observability: Prometheus, Grafana,
+CloudWatch
+Scripting & Development: Python, PowerShell Patch Management: SCCM, Tanium, WSUS, Patch Networking & Security: VPC, Security Groups, TCP/IP,
+DNS, VPN, Load Balancing
+Version Control: Git, GitHub IaC & Automation: Terraform
+Containers & Orchestration: Docker, Kubernetes (EKS),
+Helm
+Virtualization: VMware ESXi, vSphere, vCenter, HA/DRS,
+iLO
+Operating Systems: Linux (RHEL), Windows Server
+2012–2025
+ITSM & Collaboration: ServiceNow (Incident, Change,
+SCTask), ITIL
+Web & Data Tools: Nginx, Apache, Tableau, Power BI
+W O R K E X P E R I E N C E
+HCLTech · Cloud Engineer ExxonMobil
+2022 – Present
+▸ Managed modular, reusable Terraform configurations to provision AWS resources (EC2, VPC, Security Groups,
+S3, EKS), accelerating deployment efficiency by 70% and eliminating environment drift across Dev/QA/Prod.
+▸ Implemented parameterized, environment-specific variable sets in Terraform, ensuring consistent and reproducible
+infrastructure deployments across 3 environments with zero configuration mismatch incidents.
+▸ Deployed end-to-end observability stack using CloudWatch, Prometheus, and Grafana - reducing mean time to
+detect (MTTD) incidents and enabling proactive infrastructure health dashboards.
+▸ Hardened cloud security posture by configuring granular Security Group rules for 500+ EC2 instances
+(Windows/Linux), enforcing least-privilege inbound/outbound access policies aligned with compliance standards.
+▸ Sustained 95% system uptime SLA across 2,000+ servers through continuous monitoring, alert tuning, and rapid
+incident response via ServiceNow Change and Incident management workflows.
+▸ Built and maintained CI/CD pipelines using Git Lab, automating build, test, and deployment workflows and cutting
+release turnaround time significantly.
+▸ Containerized and deployed applications on Kubernetes, standardizing releases across environments and
+simplifying version upgrades and rollbacks.
+▸ Streamlined end-to-end deployment automation by integrating Git Lab pipelines with Kubernetes, improving
+deployment frequency, and reducing manual release effort.
+Amazon Development Centre · Automation Analyst 2021 – 2022
+▸ Developed high-throughput Python automation scripts leveraging Amazon's internal scraping frameworks to
+extract structured product data from thousands of dynamic web pages daily at 98.5% accuracy - equivalent to
+eliminating 3+ hours of daily manual work.
+▸ Built reusable automation utilities for business-rule-based data computations and transformations, reducing per-
+task analysis time by ~15 minutes and enabling software engineers to focus on higher-value deliverables.
+▸ Improved downstream data quality and pipeline reliability through structured reporting, anomaly detection logic,
+and automated QA checks integrated into daily extraction workflows.
+E D U C A T I O N
+Bachelor of Technology (Computer Science) Visvesvaraya Technological University, Bangalore | CGPA: 7.12 / 10
+C E R T I F I C A T I O N S
+2017 – 2021
+AWS Certified Cloud Practitioner
+Amazon Web Services
+AWS Certified SysOps Administrator – Associate
+Amazon Web Services
+Python & Advanced Python Programming
+Professional Certification
+ITIL Certified
+IT Service Management Framework
