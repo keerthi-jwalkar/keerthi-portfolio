@@ -61,7 +61,7 @@ function Hero() {
             </h1>
 
             <p className="tagline">
-              Computer Science Engineering Student | Web Developer
+              B.Tech in Computer Science | Web Developer
             </p>
 
             <p className="location">
@@ -70,11 +70,7 @@ function Hero() {
             </p>
 
             <p>
-              Computer Science Engineering student and aspiring Web Developer
-              with hands-on experience in Python, Django, Java, JavaScript,
-              HTML, CSS and MySQL. I enjoy building practical web applications,
-              solving problems and continuously learning new technologies
-              through real-world projects.
+             B.Tech in Computer Science with hands-on experience in Python, Django, Java, JavaScript, HTML, CSS and MySQL. I enjoy building practical web applications, solving problems and continuously learning new technologies through real-world projects.
             </p>
 
             <div className="hero-actions">
